@@ -1,0 +1,3 @@
+[console_scripts]
+qhash = qhash.__main__:app
+

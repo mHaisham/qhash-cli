@@ -1,0 +1,10 @@
+README.md
+setup.py
+qhash/__init__.py
+qhash/__main__.py
+qhash/file_hash.py
+qhash.egg-info/PKG-INFO
+qhash.egg-info/SOURCES.txt
+qhash.egg-info/dependency_links.txt
+qhash.egg-info/entry_points.txt
+qhash.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+typer~=0.3.2
+qhash~=0.1.0
+tqdm~=4.57.0
+setuptools~=49.2.1
